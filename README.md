@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning lots of interesting things.
 - 💞️ I’m looking to collaborate with positive people to make this world better.
 - 📫 How to reach me DM me on Twitter @gracextang
-
+- ETH Address: 0x30b173AA09Db69bE9e4b919Fa2678c798Aa1020d
 <!---
 gtbuilds/gtbuilds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
